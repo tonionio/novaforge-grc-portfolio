@@ -9,7 +9,8 @@ This roadmap tracks the progression of the NovaForge Manufacturing Governance, R
 | NF-GRC-001 — GRC Program Project Charter | Complete | Authorizes the GRC program and defines scope, objectives, stakeholders, governance, risks, deliverables, and success criteria. |
 | NF-GRC-002 — Company Profile | Complete | Establishes the business, technology, data, operational, third-party, and compliance context for the program. |
 | NF-GRC-003 — Organizational Chart & Governance Structure | Complete | Defines reporting relationships and security/GRC responsibilities across the organization. |
-| NF-GRC-004 — Asset Inventory | Next | Establishes a documented inventory of in-scope information and technology assets to support risk assessment and control selection. |
+| NF-GRC-004 — Asset Inventory | Complete | Establishes a documented inventory of 35 representative in-scope information and technology assets to support risk assessment and control selection. |
+| NF-GRC-005 — Cybersecurity Risk Assessment | Next | Evaluates threats, vulnerabilities, likelihood, impact, and inherent risk for prioritized NovaForge assets and business processes. |
 
 ## Program Phases
 
@@ -18,7 +19,7 @@ The approved Program Charter defines the following development phases:
 ### Phase 0 — Governance & Company Foundation
 Establish the organizational context and governance foundation required to support the GRC program.
 
-**Current status:** In progress; core foundation artifacts NF-GRC-001 through NF-GRC-003 are complete. Asset Inventory is the next deliverable.
+**Current status:** Complete; NF-GRC-001 through NF-GRC-004 establish the program, company context, governance structure, and baseline asset population.
 
 ### Phase 1 — Mini Compliance Program
 Develop a structured compliance program aligned with NIST Cybersecurity Framework (CSF) 2.0.
@@ -59,6 +60,6 @@ The Program Charter identifies the following success criteria:
 
 ## Current Working Point
 
-**Next deliverable: NF-GRC-004 — Asset Inventory**
+**Next deliverable: NF-GRC-005 — Cybersecurity Risk Assessment**
 
-The Asset Inventory will use the Company Profile's established technology, information, operational, cloud, engineering, manufacturing/OT, and third-party environments as the basis for identifying and categorizing in-scope assets.
+The Risk Assessment will use the Asset Inventory's ownership, classification, criticality, internet exposure, sensitive-data handling, backup status, lifecycle, and dependency fields to identify and prioritize realistic NovaForge cybersecurity risks.

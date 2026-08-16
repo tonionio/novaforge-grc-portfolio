@@ -24,7 +24,8 @@ The program is designed around concepts from:
 | NF-GRC-001 | GRC Program Charter | Complete |
 | NF-GRC-002 | NovaForge Company Profile | Complete |
 | NF-GRC-003 | Organizational Chart & Governance Structure | Complete |
-| NF-GRC-004 | Next GRC Deliverable | Next |
+| NF-GRC-004 | NovaForge Asset Inventory | Complete |
+| NF-GRC-005 | Cybersecurity Risk Assessment | Next |
 
 ## Repository Structure
 
@@ -40,6 +41,9 @@ novaforge-grc-portfolio/
 ├── 03-organizational-governance/
 │   └── README.md
 ├── 04-risk-management/
+│   └── asset-inventory/
+│       ├── README.md
+│       └── NF-GRC-004_NovaForge-Asset-Inventory.xlsx
 ├── 05-security-policies/
 ├── 06-control-mapping/
 ├── 07-audit-evidence/
@@ -57,6 +61,9 @@ Establishes the organizational, operational, technical, and business context nee
 
 ### NF-GRC-003 — Organizational Chart & Governance Structure
 Defines executive, IT, security, engineering, operations, finance, HR, legal, sales, and supporting business functions, including GRC and security responsibilities.
+
+### NF-GRC-004 — Information & Technology Asset Inventory
+Documents 35 representative cloud, SaaS, corporate IT, engineering, manufacturing/OT, security, business-application, and information assets. The workbook assigns ownership, custodianship, classification, criticality, exposure, backup status, lifecycle state, and dependencies to support risk assessment and control selection.
 
 ## Skills Demonstrated
 
