@@ -3,6 +3,12 @@
 **Status:** Complete  
 **Artifact Type:** Governance / Organizational Structure
 
+## Artifact File
+
+- [Open the full-resolution NF-GRC-003 Organizational Chart](./NF-GRC-003_NovaForge-Organizational-Chart.jpeg)
+
+![NovaForge Manufacturing organizational chart](./NF-GRC-003_NovaForge-Organizational-Chart.jpeg)
+
 ## Purpose
 
 This artifact defines NovaForge Manufacturing's reporting relationships and establishes where IT, security, GRC, engineering, operations, and supporting business functions sit within the organization.

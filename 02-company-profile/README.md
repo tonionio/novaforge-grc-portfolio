@@ -9,6 +9,10 @@
 **Effective Date:** July 2026  
 **Review Cycle:** Annual
 
+## Artifact File
+
+- [Open the approved NF-GRC-002 Company Profile PDF](./NF-GRC-002_NovaForge-Company-Profile.pdf)
+
 ## Purpose
 
 This artifact establishes the organizational and business context used throughout the NovaForge GRC Program. It serves as the reference point for later risk assessments, control selection, policy development, third-party risk analysis, and compliance work.

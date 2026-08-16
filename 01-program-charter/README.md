@@ -9,6 +9,10 @@
 **Effective Date:** July 1, 2026  
 **Review Cycle:** Annual
 
+## Artifact File
+
+- [Open the approved NF-GRC-001 Program Charter PDF](./NF-GRC-001_GRC-Program-Charter.pdf)
+
 ## Purpose
 
 The Program Charter formally establishes the NovaForge Manufacturing Governance, Risk & Compliance (GRC) Program. It authorizes development of a structured governance framework for managing cybersecurity risk while supporting business objectives.
