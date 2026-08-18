@@ -2,7 +2,7 @@
 
 This roadmap tracks the progression of the NovaForge Manufacturing Governance, Risk & Compliance (GRC) Program.
 
-## Program Foundation
+## Artifact Progress
 
 | Artifact | Status | Purpose |
 |---|---|---|
@@ -10,7 +10,8 @@ This roadmap tracks the progression of the NovaForge Manufacturing Governance, R
 | NF-GRC-002 — Company Profile | Complete | Establishes the business, technology, data, operational, third-party, and compliance context for the program. |
 | NF-GRC-003 — Organizational Chart & Governance Structure | Complete | Defines reporting relationships and security/GRC responsibilities across the organization. |
 | NF-GRC-004 — Asset Inventory | Complete | Establishes a documented inventory of 35 representative in-scope information and technology assets to support risk assessment and control selection. |
-| NF-GRC-005 — Cybersecurity Risk Assessment | Next | Evaluates threats, vulnerabilities, likelihood, impact, and inherent risk for prioritized NovaForge assets and business processes. |
+| NF-GRC-005 — Cybersecurity Risk Assessment | Complete | Evaluates 20 prioritized threat-and-vulnerability scenarios across all 35 baseline assets, calculates inherent and residual risk, assigns accountable owners, and records treatment direction and evidence expectations. |
+| NF-GRC-006 — Risk Treatment Plan & Risk Register Tracking | Next | Converts the approved assessment into prioritized remediation actions, accountable action owners, milestones, evidence requirements, status monitoring, acceptance decisions, and escalation criteria. |
 
 ## Program Phases
 
@@ -23,6 +24,8 @@ Establish the organizational context and governance foundation required to suppo
 
 ### Phase 1 — Mini Compliance Program
 Develop a structured compliance program aligned with NIST Cybersecurity Framework (CSF) 2.0.
+
+**Current status:** In progress; NF-GRC-005 establishes the approved risk-assessment baseline with 20 scenarios, 35/35 asset coverage, risk ownership, NIST CSF 2.0 mappings, and executive reporting.
 
 ### Phase 2 — Enterprise Risk Management
 Identify, assess, prioritize, document, and track organizational cybersecurity risks.
@@ -60,6 +63,6 @@ The Program Charter identifies the following success criteria:
 
 ## Current Working Point
 
-**Next deliverable: NF-GRC-005 — Cybersecurity Risk Assessment**
+**Next deliverable: NF-GRC-006 — Risk Treatment Plan & Risk Register Tracking**
 
-The Risk Assessment will use the Asset Inventory's ownership, classification, criticality, internet exposure, sensitive-data handling, backup status, lifecycle, and dependency fields to identify and prioritize realistic NovaForge cybersecurity risks.
+The Risk Treatment Plan will operationalize NF-GRC-005 by prioritizing remediation activities, assigning action owners and target dates, defining required evidence, tracking treatment status, and escalating overdue or above-appetite risks.

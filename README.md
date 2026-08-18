@@ -25,7 +25,8 @@ The program is designed around concepts from:
 | NF-GRC-002 | NovaForge Company Profile | Complete |
 | NF-GRC-003 | Organizational Chart & Governance Structure | Complete |
 | NF-GRC-004 | NovaForge Asset Inventory | Complete |
-| NF-GRC-005 | Cybersecurity Risk Assessment | Next |
+| NF-GRC-005 | Cybersecurity Risk Assessment | Complete |
+| NF-GRC-006 | Risk Treatment Plan & Risk Register Tracking | Next |
 
 ## Repository Structure
 
@@ -41,9 +42,12 @@ novaforge-grc-portfolio/
 ├── 03-organizational-governance/
 │   └── README.md
 ├── 04-risk-management/
-│   └── asset-inventory/
+│   ├── asset-inventory/
+│   │   ├── README.md
+│   │   └── NF-GRC-004_NovaForge-Asset-Inventory.xlsx
+│   └── risk-assessment/
 │       ├── README.md
-│       └── NF-GRC-004_NovaForge-Asset-Inventory.xlsx
+│       └── NF-GRC-005_NovaForge-Cybersecurity-Risk-Assessment.xlsx
 ├── 05-security-policies/
 ├── 06-control-mapping/
 ├── 07-audit-evidence/
@@ -51,7 +55,7 @@ novaforge-grc-portfolio/
 └── 09-compliance-reporting/
 ```
 
-## Completed Foundation
+## Completed Artifacts
 
 ### NF-GRC-001 — GRC Program Charter
 Defines the purpose, objectives, scope, stakeholders, governance responsibilities, planned deliverables, risks, and success criteria for the NovaForge GRC program.
@@ -64,6 +68,9 @@ Defines executive, IT, security, engineering, operations, finance, HR, legal, sa
 
 ### NF-GRC-004 — Information & Technology Asset Inventory
 Documents 35 representative cloud, SaaS, corporate IT, engineering, manufacturing/OT, security, business-application, and information assets. The workbook assigns ownership, custodianship, classification, criticality, exposure, backup status, lifecycle state, and dependencies to support risk assessment and control selection.
+
+### NF-GRC-005 — Cybersecurity Risk Assessment
+Assesses 20 prioritized risk scenarios across all 35 baseline assets using a transparent 5×5 likelihood-and-impact methodology. The workbook documents inherent and residual risk, business ownership, existing controls, treatment direction, NIST CSF 2.0 mappings, evidence expectations, a residual-risk heat map, and an executive dashboard.
 
 ## Skills Demonstrated
 
